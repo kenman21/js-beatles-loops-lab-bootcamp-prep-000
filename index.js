@@ -20,6 +20,6 @@ function iLoveTheBeatles(number) {
   do {
     "I love the Beatles"
   while (number<15)
-    number += 1
+    number += 1;
   }
 }
